@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>ListViewAddRemove</Entry>
+    <Name>
+        <English>ListViewAddRemove</English>
+        <eng-GB>ListViewAddRemove</eng-GB>
+    </Name>
+    <Vendor>Dr. Strangecode</Vendor>
+    <Description>Sample App</Description>
+    <Icons>
+        <MainMenu>ListViewAddRemove_type4.png<Type1/>
+            <Type2>ListViewAddRemove_type2.png</Type2>
+            <Type3>ListViewAddRemove_type3.png</Type3>
+            <Type4>ListViewAddRemove_type4.png</Type4>
+        </MainMenu>
+        <Setting/>
+        <Ticker/>
+        <QuickPanel/>
+        <LaunchImage>Splash_type4.png<Type1/>
+            <Type2>Splash_type2.png</Type2>
+            <Type3>Splash_type3.png</Type3>
+            <Type4>Splash_type4.png</Type4>
+        </LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>true</Enabled>
+        <BaseResolution>NormalSize</BaseResolution>
+    </AutoScaling>
+</Application>
