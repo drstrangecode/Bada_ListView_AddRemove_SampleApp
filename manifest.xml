@@ -5,6 +5,7 @@
 	<AppVersion>1.0.0</AppVersion>
 	<ManifestVersion>1.2</ManifestVersion>
 	<Privileges>
+		<Privilege>IMAGE</Privilege>
 	</Privileges>
 	<DeviceProfile>
 		<APIVersion>2.0</APIVersion>
